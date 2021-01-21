@@ -11,7 +11,7 @@ Prerequisites
 
 4.Azure SQL VM
 
-5.Site-to-site VPN tunel
+5.Site-to-site VPN tunnel
 
 6.Azure Internal Load Balancer
 
